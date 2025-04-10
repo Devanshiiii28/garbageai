@@ -8,7 +8,7 @@ import numpy as np
 from io import BytesIO
 
 # Load the model
-model_path = "C:/Users/Devanshi Bansal/Desktop/garbage ai/greenai_garbage_model.pkl"
+model_path = "greenai_garbage_model.pkl"
 model = None
 if os.path.exists(model_path):
     with open(model_path, "rb") as file:
