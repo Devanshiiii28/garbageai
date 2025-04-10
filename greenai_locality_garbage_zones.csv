@@ -1,0 +1,27 @@
+locality,city,full_location,garbage_area_km2,total_area_km2,garbage_percent,cleanliness_score,garbage_density_km2_per_feature,landfills,disposal_units,recycling_centers,waste_baskets,wastewater_plants,latitude,longitude,suitability
+Lodhi Colony,Delhi,"Lodhi Colony, Delhi, India",0.0,0.0,0.0,100.0,0.0,0,0,0,0,0,,,Excellent
+Cuffe Parade,Mumbai,"Cuffe Parade, Mumbai, India",0.0,0.0,0.0,100.0,0.0,0,0,0,0,0,,,Excellent
+Cubbon Park,Bengaluru,"Cubbon Park, Bengaluru, India",0.01,0.65,1.54,98.46,0.0002,0,1,0,38,1,12.974572036903215,77.59243751382594,Excellent
+Lalbagh,Bengaluru,"Lalbagh, Bengaluru, India",0.01,0.96,1.04,98.96,0.0001,0,0,0,101,1,12.948586569063323,77.58562520301238,Excellent
+Besant Nagar,Chennai,"Besant Nagar, Chennai, India",3.59,344.53,1.04,98.96,0.0898,10,5,4,12,9,13.009463424220003,80.2249063949373,Excellent
+Adyar,Chennai,"Adyar, Chennai, India",0.0,0.0,0.0,100.0,0.0,0,0,0,0,0,,,Excellent
+Gachibowli,Hyderabad,"Gachibowli, Hyderabad, India",1.38,672.69,0.21,99.79,0.0531,1,7,0,8,10,17.42675290427608,78.45472476761553,Excellent
+Banjara Hills,Hyderabad,"Banjara Hills, Hyderabad, India",1.38,672.69,0.21,99.79,0.0531,1,7,0,8,10,17.42675290427608,78.45472476761553,Excellent
+Alipore,Kolkata,"Alipore, Kolkata, India",0.85,215.32,0.39,99.61,0.17,2,1,0,0,2,22.526108335483517,88.35657626645951,Excellent
+New Town,Kolkata,"New Town, Kolkata, India",0.85,215.32,0.39,99.61,0.17,2,1,0,0,2,22.526108335483517,88.35657626645951,Excellent
+Sector 62,Noida,"Sector 62, Noida, India",0.35,273.87,0.13,99.87,0.05,1,0,0,1,5,28.531027319745352,77.39409359181843,Excellent
+Whitefield,Bengaluru,"Whitefield, Bengaluru, India",2.67,758.71,0.35,99.65,0.0042,14,20,78,441,88,12.976302962908646,77.60301423593609,Excellent
+Koregaon Park,Pune,"Koregaon Park, Pune, India",0.0,0.0,0.0,100.0,0.0,0,0,0,0,0,,,Excellent
+Rajendra Nagar,Indore,"Rajendra Nagar, Indore, India",0.0,0.0,0.0,100.0,0.0,0,0,0,0,0,,,Excellent
+Maninagar,Ahmedabad,"Maninagar, Ahmedabad, India",0.93,8389.98,0.01,99.99,0.0664,1,1,1,3,8,22.769485113302647,72.24200134974782,Excellent
+Vyttila,Kochi,"Vyttila, Kochi, India",0.0,0.0,0.0,100.0,0.0,0,0,0,0,0,,,Excellent
+Panaji,Goa,"Panaji, Goa, India",0.4,3942.86,0.01,99.99,0.0077,27,1,12,8,4,15.363318166481005,74.05434965202521,Excellent
+Aundh,Pune,"Aundh, Pune, India",0.33,349.2,0.09,99.91,0.0114,0,4,0,12,13,18.527865946830243,73.87348135953096,Excellent
+Anna Nagar,Chennai,"Anna Nagar, Chennai, India",3.59,344.53,1.04,98.96,0.0898,10,5,4,12,9,13.009463424220003,80.2249063949373,Excellent
+Shyambazar,Kolkata,"Shyambazar, Kolkata, India",0.85,215.32,0.39,99.61,0.17,2,1,0,0,2,22.526108335483517,88.35657626645951,Excellent
+Jubilee Hills,Hyderabad,"Jubilee Hills, Hyderabad, India",1.38,672.69,0.21,99.79,0.0531,1,7,0,8,10,17.42675290427608,78.45472476761553,Excellent
+Powai,Mumbai,"Powai, Mumbai, India",4.83,437.68,1.1,98.9,0.0284,8,11,0,143,8,19.143037526765653,72.87697275173143,Excellent
+Salt Lake City,Kolkata,"Salt Lake City, Kolkata, India",0.85,215.32,0.39,99.61,0.17,2,1,0,0,2,22.526108335483517,88.35657626645951,Excellent
+DLF Phase 3,Gurugram,"DLF Phase 3, Gurugram, India",3.34,1623.79,0.21,99.79,0.0514,3,0,4,48,10,28.368750102987246,76.94077310301233,Excellent
+Jayanagar,Bengaluru,"Jayanagar, Bengaluru, India",2.67,758.71,0.35,99.65,0.0042,14,20,78,441,88,12.976302962908646,77.60301423593609,Excellent
+Porvorim,Goa,"Porvorim, Goa, India",0.4,3942.86,0.01,99.99,0.0077,27,1,12,8,4,15.363318166481005,74.05434965202521,Excellent
