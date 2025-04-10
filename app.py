@@ -8,7 +8,7 @@ import numpy as np
 from io import BytesIO
 
 # Load the model
-model_path = "greenai_garbage_model.pkl"
+model_path = "C:/Users/Devanshi Bansal/Desktop/garbage ai/greenai_garbage_model.pkl"
 model = None
 if os.path.exists(model_path):
     with open(model_path, "rb") as file:
@@ -123,6 +123,6 @@ if image_files:
     cols = st.columns(3)
     for i, img_file in enumerate(sorted(image_files)):
         with cols[i % 3]:
-            st.image(Image.open(img_file), caption=img_file.replace("garbage_map_", "").replace("_", " ").replace(".png", ""), use_column_width=True)
+            st.image(Image.open(img_file), caption=img_file.replace("garbage_map_", "").replace("_", " ").replace(".png", ""), use_container_width=True)
 else:
     st.info("No map images found. Ensure they are saved in the same directory as the Streamlit app.")
